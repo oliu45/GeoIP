@@ -28,4 +28,4 @@ Docker installed on the device you are cloning this repo on.
 
 # Security Consideration
 
-A free IPStack account was created for the purposes of this assignment, which does not support the use of http**s** in the browser URL. Thus, any API connection is unencrypted when running the container. Furthermore, The IPStack API access key is viewable in the source code of the GeoIP file for the purposes of this assignment, but in a production/test environment, it is imperative to have the access key stored somewhere else securely and should always be shared securely to prevent account and data theft and breaches. 
+A free IPStack account was created for the purposes of this assignment, which does not support the use of http**s** in the browser URL. Thus, any API connection is unencrypted and unsecured when running the container. Furthermore, The IPStack API access key is viewable in the source code of the GeoIP file for the purposes of this assignment, but in a production/test environment, it is imperative to have the access key stored somewhere else securely and should always be shared securely to prevent account and data theft and breaches. 
