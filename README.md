@@ -1,6 +1,6 @@
 # Summary
 
-Build a docker container image from the provided docker file and then run the docker container, along with an IP address, to retrieve the latitude and longitude of the IP address from IPStack.  
+Build a docker container from the provided docker file and then run the docker container, along with an IP address, to retrieve the latitude and longitude of the IP address from IPStack.  
 
 # What are the files in this repository?
 
